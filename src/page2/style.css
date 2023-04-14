@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foto{
+    width: 100px;
+    height: 100px;
+}
+
+.fotoCard{
+    height: 10rem;
+}
+.card{
+    width: 12rem;
+    border: none;
+}
+.cardBody h3{
+    margin-top: -8px;
+    font-size: 17px;
+}
+.cardBody p{
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+.cardBody span{
+    font-size: 14px;
+    margin-bottom: 2px;
+    color: rgb(124, 127, 127);
+}
+.hov:hover{
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+/* nav */
+.user{
+    text-align: end;
+}
+.nav{
+    background: #0EA293;
+}
+.teksNav{
+    color: #C7E8CA;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 5px;
+    
+}
+
+/* carousel */
+.carimg{
+    height: 500px;
+}
+
+/* user */
+.produk{
+    background: red;
+}
